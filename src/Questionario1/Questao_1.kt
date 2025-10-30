@@ -1,3 +1,5 @@
+package Questionario1
+
 // 1. Escreva uma função que receba um número e verifique se ele é positivo, negativo ou zero. Use o IF como expressão.
 fun verificaNumero(n: Int): String {
     var resultado  = if (n > 0) {

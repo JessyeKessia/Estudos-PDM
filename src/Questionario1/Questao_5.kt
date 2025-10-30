@@ -1,4 +1,4 @@
- // 5. Escreva uma função que receba um valor e uma matriz. O programa deverá imprimir e quais posições estão o valor parametrizado.
+package Questionario1 // 5. Escreva uma função que receba um valor e uma matriz. O programa deverá imprimir e quais posições estão o valor parametrizado.
  // Em seguida, faça um programa que gere uma matriz, identifique qual o seu maior e onde estão na matriz. Reuse a função da questão 4.
 
  // Primeira parte

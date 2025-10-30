@@ -1,4 +1,4 @@
-// 2. Implemente uma função que receba a idade de uma pessoa e use o when para verificar e retornar à faixa etária de uma pessoa
+package Questionario1// 2. Implemente uma função que receba a idade de uma pessoa e use o when para verificar e retornar à faixa etária de uma pessoa
 // (criança, adolescente, adulto, idoso).
 
 fun verificaIdade(idade: Int) {

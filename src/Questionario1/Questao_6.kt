@@ -1,4 +1,4 @@
-// 6. Crie uma lista mutável contendo vários nomes. A entrada de dados se encerrará quando o usuário digitar a palavra ‘fim’.
+package Questionario1// 6. Crie uma lista mutável contendo vários nomes. A entrada de dados se encerrará quando o usuário digitar a palavra ‘fim’.
 // Em seguida, crie uma expressão lambda e use-a no método forEach da lista, para filtrar e imprimir todos os nomes que comecem com a letra ‘B’.
 
 

@@ -1,4 +1,4 @@
-// 3. Crie uma  função que receba um valor e uma lista de valores (de tamanho indefinido e com valores de diferentes tipos de dados).
+package Questionario1// 3. Crie uma  função que receba um valor e uma lista de valores (de tamanho indefinido e com valores de diferentes tipos de dados).
 // A função deverá retornar quantas ocorrências do valor aparecem na lista.
 
 fun ocorrenciaValor(list:List<Any>, valor: Any): Int {
